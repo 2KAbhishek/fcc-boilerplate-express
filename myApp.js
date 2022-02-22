@@ -19,11 +19,11 @@ app.get('/json', (req, res) => {
     }
 });
 
-app.get('/now', (req, res, next) => {
+const curTime = (req, res, next) => {
     req.time = new Date().toString();
     next();
-}, (req, res) => {
-    res.send({ time: req.time })
-})
+};
+
+app.get("/now", curTime, (req, res) => res.send({ time: req.time }));
 
 module.exports = app;
