@@ -24,6 +24,8 @@ const curTime = (req, res, next) => {
     next();
 };
 
-app.get("/now", curTime, (req, res) => res.send({ time: req.time }));
+app.get('/now', curTime, (req, res) => res.send({ time: req.time }));
+
+app.get('/:word/echo', (req, res) => res.json({ echo: req.params.word }));
 
 module.exports = app;
