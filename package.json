@@ -1,6 +1,9 @@
 {
 	"name": "fcc-learn-node-with-express",
+	"author": "2KAbhishek",
+	"description": "A Express.js tutorial peoject",
 	"version": "0.1.0",
+	"keywords": ["express", "server", "freecodecamp", "tutorial"],
 	"dependencies": {
 		"body-parser": "^1.19.2",
 		"cookie-parser": "^1.4.3",
