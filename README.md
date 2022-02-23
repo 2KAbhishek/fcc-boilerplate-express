@@ -23,29 +23,23 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h3>Short sweet headline with 🎇🎉</h3>
-
-<figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/fcc-boilerplate-express/main/images/screenshot.png" alt="fcc-boilerplate-express Demo" style="width:100%">
-  <br/>
-  <figcaption>fcc-boilerplate-express screenshot</figcaption>
-</figure>
+<h3>Basic Node and Express 🌏⏩</h3>
 
 </div>
 
 ## What is this
 
-fcc-boilerplate-express is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+This repo contains the project created for FreeCodeCamp's [Basic Node and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express), part of the Backen-End Development track.
 
 ## Inspiration
 
-fcc-boilerplate-express was inspired by `<reason/idea>`.
+Wanted to finish the Back-End Development curriculum.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You have installed the latest version of `node`
 
 ## Getting fcc-boilerplate-express
 
@@ -54,55 +48,39 @@ To install fcc-boilerplate-express, follow these steps:
 ```bash
 git clone https://github.com/2kabhishek/fcc-boilerplate-express
 cd fcc-boilerplate-express
-<install_command>
 ```
 
 ## Using fcc-boilerplate-express
 
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
+This repo was created to help new developers get started with express and basic API development, and to help people who are trying to complete FCC's Back-End Development certification.
 
-FLAGS:
-    -h, --help              Prints help information.
+Go through the commit history of this repo to understand the solutions to different exercises.
 
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
-```
+To run the app locally: `npm start`
 
 ## How it was built
 
-fcc-boilerplate-express was built using `<tech/library>`
+fcc-boilerplate-express was built using [boilerplate-express](https://github.com/freeCodeCamp/boilerplate-express/) as a starting point.
 
 ## Challenges faced
 
-While building fcc-boilerplate-express the main challenges were `<issue/difficulty>`
+- Not a challenge but a learning experience, in order to make tests that depend on the environment variables, we have to update the .env file on Glitch as well.
 
 ## What I learned
 
-While building fcc-boilerplate-express I `<learned/accomplished>` about `<learning/accomplishment>`
+- Got to learn about middleware.
+- Worked with middleware like body-parser.
+- Learned about different ways to handle routes and parameters.
 
 ## What's next
 
-Planning to add `<feature/module>`.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
-- [ ] Change me
-- [ ] Update README
-- [ ] Finish it
+Planning to finish the Back-end Certification.
 
 Hit the ⭐ button if you found this useful.
 
 ## More Info
+
+Find the accompanying Glitch project [here](https://glitch.com/edit/#!/fern-quick-colby).
 
 <div align="center">
 
