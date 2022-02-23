@@ -29,7 +29,7 @@
 
 ## What is this
 
-This repo contains the project created for FreeCodeCamp's [Basic Node and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express), part of the Backen-End Development track.
+This repo contains the project created for FreeCodeCamp's [Basic Node and Express](https://www.freecodecamp.org/learn/back-end-development-and-apis/#basic-node-and-express), part of the Back-End Development track.
 
 ## Inspiration
 
