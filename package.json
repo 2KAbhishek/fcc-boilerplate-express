@@ -5,10 +5,10 @@
 	"version": "0.1.0",
 	"keywords": ["express", "server", "freecodecamp", "tutorial"],
 	"dependencies": {
-		"body-parser": "^1.19.2",
+		"body-parser": "^1.20.4",
 		"cookie-parser": "^1.4.3",
 		"dotenv": "^16.0.0",
-		"express": "^4.17.3",
+		"express": "^4.22.1",
 		"fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
 	},
 	"main": "server.js",
