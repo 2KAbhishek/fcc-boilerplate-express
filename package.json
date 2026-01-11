@@ -6,7 +6,7 @@
 	"keywords": ["express", "server", "freecodecamp", "tutorial"],
 	"dependencies": {
 		"body-parser": "^1.20.4",
-		"cookie-parser": "^1.4.3",
+		"cookie-parser": "^1.4.7",
 		"dotenv": "^16.0.0",
 		"express": "^4.22.1",
 		"fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
